@@ -11,4 +11,6 @@ public class HomeController {
     public String home(){
         return "여기는 home 이에요!";
     }
+
+
 }
